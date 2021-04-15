@@ -1,0 +1,27 @@
+F
+L
+A
+G
+{
+A xor Q
+D xor I
+P xor T
+G xor M xor O
+O xor V xor Z
+A xor K xor S
+J xor W xor Y
+A xor C xor E
+D xor G xor H
+L xor X xor Y
+A xor G xor U xor W
+D xor O xor Q xor S
+C xor M xor P xor T
+G xor I xor S xor U
+F xor J xor P xor V xor W
+A xor C xor G xor I xor S
+C xor J xor N xor W xor Z
+D xor F xor I xor N xor P
+N xor O xor Q xor S xor T
+E xor H xor Q xor V xor Y
+F xor O xor R xor X xor Z
+}
